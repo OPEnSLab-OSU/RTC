@@ -1,5 +1,5 @@
 /*
- * Author: Chet Udell
+ * Author: Chet Udell, Thomas DeBell
  * CC License 3.0, share-alike, attribution
  * 
  * For Use with Feather 32u4 and DS3231 RTC
