@@ -1,11 +1,11 @@
 /*
- * Author: Chet Udell
+ * Author: Chet Udell, Thomas DeBell
  * CC License 3.0, share-alike, attribution
  * 
  * Use DS3231 RTC Adafruit breakout and RTCLibExtended for power management
  * Because Adafruit ProTrinket only has Pin 3 onterrupt available, we need to be able to wake from sleep 
  * this from an additional INT pin 
- * 
+ * For use with Arduino Uno
  * Use Sparkfun Low Power library
  * Sleep until Interrupt
  * Use Analog 0 pin as Interrupt
