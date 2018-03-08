@@ -1,5 +1,5 @@
 /*
- * Author: Chet Udell
+ * Author: Chet Udell, Thomas DeBell
  * CC License 3.0, share-alike, attribution
  * 
  * Use DS3231 RTC Adafruit breakout and RTCLibExtended for power management
